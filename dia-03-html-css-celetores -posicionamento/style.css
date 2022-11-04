@@ -1,0 +1,24 @@
+h1, p { 
+    color: red;
+    text-align: center;
+    font: sans-serif;
+  }
+
+  h2 {
+    color: rgb(50, 13, 13);
+  }
+
+  li {
+    color: blue;
+  }
+  ul:hover, ol:hover {
+    background-color: rgb(19, 90, 26);
+  }
+  li:active {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+  }
+ 
+  li {
+    list-style: none;;
+  }
